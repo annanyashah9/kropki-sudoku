@@ -14,3 +14,5 @@ The functionality of the program consists of the following:
 The instructions to run this project are as follows:
 1. When calling the main function, set the first parameter to the desired input file, and set the second parameter to the name of the desired output file (Ex. main("Input1.txt", "Output1.txt"))
 2. To run the program (for MacOS), run the following command: python3 proj2_final.py
+
+From following these instruction, an output file with the specified name in (1) will be created. This repo contains corresponding output files that were generated, from running our program on the input files. 
